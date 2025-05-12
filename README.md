@@ -1,2 +1,2 @@
-Project Overview
-This project involved conducting an internal cybersecurity audit and risk assessment for a fictional toy manufacturing company, Botium Toys. The objective was to identify, evaluate, and mitigate potential security risks based on industry standards such as the NIST Cybersecurity Framework. This report documents the scope, objectives, risk areas identified, control implementations, and a final control checklist to help Botium Toys strengthen its cybersecurity posture.
+This project is a comprehensive internal security audit for Botium Toys, aligning with NIST Cybersecurity Framework. It includes asset identification, risk assessment, control categorization (administrative, technical, physical), and a detailed controls and compliance checklist for PCI DSS, GDPR, and SOC standards. The final report provides actionable recommendations to improve the company’s cybersecurity posture.
+
